@@ -28,7 +28,7 @@ NAS MasterX v1.1 is an intelligent, auto-detecting NAS monitoring system that pr
 # Download and run the installer
 sudo mkdir -p /opt/media_stack/NAS_MasterX
 cd /opt/media_stack/NAS_MasterX
-sudo curl -O https://raw.githubusercontent.com/SkullEnemyX/NAS_MasterX/main/nas_masterx_installer.sh
+sudo curl -L -O https://github.com/SkullEnemyX/NAS-MasterX/releases/download/Installer/nas_masterx_installer.sh
 sudo chmod +x nas_masterx_installer.sh
 ./nas_masterx_installer.sh
 ```
