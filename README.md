@@ -33,7 +33,7 @@ If you've ever struggled with:
 # Download and run the installer
 sudo mkdir -p /opt/media_stack/NAS_MasterX
 cd /opt/media_stack/NAS_MasterX
-sudo curl -O https://raw.githubusercontent.com/your-repo/NAS_MasterX/main/nas_masterx_installer.sh
+sudo curl -O https://raw.githubusercontent.com/SkullEnemyX/NAS_MasterX/main/nas_masterx_installer.sh
 sudo chmod +x nas_masterx_installer.sh
 ./nas_masterx_installer.sh
 ```
